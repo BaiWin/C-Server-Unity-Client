@@ -16,9 +16,9 @@ To Start the Client:
  - Set your name, click the button to connect
  
 GamePlay: 
-Move : 'W', 'A', 'S', 'D'
-Latency : '-', '=' (They are in the left side of Backspace if laptop)
-DropPack : '9', '0' (They are in the left side of Backspace if laptop)
-Color : 'Tab'
+ - Move : 'W', 'A', 'S', 'D'
+ - Latency : '-', '=' (They are in the left side of Backspace if laptop)
+ - DropPack : '9', '0' (They are in the left side of Backspace if laptop)
+ - Color : 'Tab'
 
 			       
