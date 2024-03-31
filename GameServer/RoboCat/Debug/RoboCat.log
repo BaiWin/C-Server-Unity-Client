@@ -1,0 +1,36 @@
+﻿  RoboCatPCH.cpp
+C:\Users\57774\Desktop\mod\Chapter 8\RoboCatAction\RoboCat\Inc\GameObject.h(61,42): warning C4244: 'return': conversion from 'const int' to 'uint8_t', possible loss of data
+  AckRange.cpp
+  Yarn.cpp
+  DeliveryNotificationManager.cpp
+  Engine.cpp
+  GameObjectRegistry.cpp
+  InFlightPacket.cpp
+  InputState.cpp
+  MemoryBitStream.cpp
+  Move.cpp
+  MoveList.cpp
+  NetworkManager.cpp
+  RoboMath.cpp
+C:\Users\57774\Desktop\mod\Chapter 8\RoboCatAction\RoboCat\Src\RoboMath.cpp(28,15): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  ScoreBoardManager.cpp
+  RoboCat.cpp
+C:\Users\57774\Desktop\mod\Chapter 8\RoboCatAction\RoboCat\Src\RoboCat.cpp(27,35): warning C4100: 'inDeltaTime': unreferenced formal parameter
+C:\Users\57774\Desktop\mod\Chapter 8\RoboCatAction\RoboCat\Src\RoboCat.cpp(43,45): warning C4100: 'inDeltaTime': unreferenced formal parameter
+C:\Users\57774\Desktop\mod\Chapter 8\RoboCatAction\RoboCat\Src\RoboCat.cpp(151,8): warning C4189: 'y': local variable is initialized but not referenced
+C:\Users\57774\Desktop\mod\Chapter 8\RoboCatAction\RoboCat\Src\RoboCat.cpp(155,8): warning C4189: 'vy': local variable is initialized but not referenced
+  SocketAddress.cpp
+  SocketAddressFactory.cpp
+  SocketUtil.cpp
+C:\Users\57774\Desktop\mod\Chapter 8\RoboCatAction\RoboCat\Src\SocketUtil.cpp(90,102): warning C4100: 'ioNaxNfds': unreferenced formal parameter
+  StringUtils.cpp
+  TCPSocket.cpp
+  Timing.cpp
+  Generating Code...
+  Compiling...
+  GameObject.cpp
+  Mouse.cpp
+  UDPSocket.cpp
+  World.cpp
+  Generating Code...
+  RoboCat.vcxproj -> C:\Users\57774\Desktop\mod\Chapter 8\RoboCatAction\RoboCat\Bin\Debug\RoboCat.lib
