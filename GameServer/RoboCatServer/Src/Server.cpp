@@ -40,8 +40,8 @@ bool Server::InitNetworkManager()
 {
 	string portString = StringUtils::GetCommandLineArg( 1 );
 
-	if (portString.empty())
-		portString = "11000";
+	/*if (portString.empty())
+		portString = "11000";*/
 
 	uint16_t port = stoi( portString );
 
