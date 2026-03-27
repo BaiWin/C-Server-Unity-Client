@@ -1,4 +1,5 @@
 # C-Server-Unity-Client"# C-Server-Unity-Client" (work in 2024)
+# SDL2-2.29.3 is required
 
 Folder GameServer            - C++
 Folder GameClientProject  - Unity
